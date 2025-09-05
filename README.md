@@ -8,15 +8,15 @@ PsyDial is a semi-real, Chinese-language dataset created by reconstructing real-
 
 `data`: the PsyDial (D4.json) dataset and the masked real-world dataset.
 
-- `D0_m.json`: Contact with `qiuhuachuan@gmail.com` for the masked real-world dataset.
+- `PsyDial-D0_m.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D0_m
 
-- `D1.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D1
-- `D2.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D2
+- `PsyDial-D1.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D1
+- `PsyDial-D2.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D2
 - `D3.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D3
-- `D4.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D4
-- `D101.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D101
+- `PsyDial-D4.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D4
+- `PsyDial-D101.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D101
 
-`models`: https://huggingface.co/qiuhuachuan/PsyDial-Pi4
+`model`: https://huggingface.co/qiuhuachuan/PsyDial-Pi4
 
 `/code`: Contains the implementation of the RMRR method and evaluation scripts.
 
