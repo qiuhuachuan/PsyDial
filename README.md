@@ -20,6 +20,8 @@ PsyDial is a semi-real, Chinese-language dataset created by reconstructing real-
 
 `/code`: Contains the implementation of the RMRR method and evaluation scripts.
 
+`cal_LDD.py`: the script to calculate the LDD.
+
 ## Citation
 
 If you find this dataset valuable for your research, kindly cite it using the following BibTeX.
