@@ -12,7 +12,7 @@ PsyDial is a semi-real, Chinese-language dataset created by reconstructing real-
 
 - `PsyDial-D1.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D1
 - `PsyDial-D2.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D2
-- `D3.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D3
+- `PsyDial-D3.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D3
 - `PsyDial-D4.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D4
 - `PsyDial-D101.json`: https://huggingface.co/datasets/qiuhuachuan/PsyDial-D101
 
